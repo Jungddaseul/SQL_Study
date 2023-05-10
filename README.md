@@ -8,7 +8,10 @@
 ### GUI 응용 프로그램
 tkinter는 파이썬에서 GUI 관련 모듈을 제공해주는 표준 윈도 라이브러리
 
-- 실습 ① GUI ktinter을 활용하여 제목을 지정하고 크기를 설정하기 [코드확인](Code8-3.py)
-> <img width="299" alt="image" src="https://github.com/Jungddaseul/SQL_Study/assets/114555218/787c9bb8-7ea7-4b59-aacd-4146856993fb" title="실습 ① 결과">
+- 실습 ① GUI ktinter을 활용하여 **제목을 지정하고 크기를 설정**하기 [코드확인](Code8-3.py)
+- 실습 ② GUI ktinter을 활용하여 **버튼만들기** [코드확인](Code8-4.py)
 
-
+<p align="center">
+<img width="299" alt="image" src="https://github.com/Jungddaseul/SQL_Study/assets/114555218/787c9bb8-7ea7-4b59-aacd-4146856993fb" title="실습 ① 결과">
+<img width="306" alt="image" src="https://github.com/Jungddaseul/SQL_Study/assets/114555218/56e18992-b73c-4aa7-8b1c-14e3f326e5ca" title="실습 ② 결과">
+</p>
