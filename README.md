@@ -9,7 +9,6 @@
 tkinter는 파이썬에서 GUI 관련 모듈을 제공해주는 표준 윈도 라이브러리
 
 - 실습 ① GUI ktinter을 활용하여 제목을 지정하고 크기를 설정하기 [코드확인](Code8-3.py)
->> 실행결과 
 
->> <img width="250" alt="image" src="https://github.com/Jungddaseul/SQL_Study/assets/114555218/bbc8b04b-83b1-4e4e-bbaa-8ed4ae1ff6ee">
+> [실행결과]<img width="250" alt="image" src="https://github.com/Jungddaseul/SQL_Study/assets/114555218/bbc8b04b-83b1-4e4e-bbaa-8ed4ae1ff6ee">
 
