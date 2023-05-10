@@ -20,10 +20,11 @@ tkinter는 파이썬에서 GUI 관련 모듈을 제공해주는 표준 윈도 �
 
 
 - 실습 ④ GUI ktinter을 활용하여 프레임, 엔트리, 리스트박스 만들기 [코드확인](Code8-6.py)
+<img width="220" alt="image" src="https://github.com/Jungddaseul/SQL_Study/assets/114555218/b5d9ca5a-4a00-4f47-817d-3a9f1a160d1a" title="실습 ④ 결과">
+
 - 실습 ⑤ GUI ktinter을 활용하여 완전한 형태의 GUI 프로그래밍 만들기 [코드확인](Code8-7.py)
 <p align="left">
-<img width="220" alt="image" src="https://github.com/Jungddaseul/SQL_Study/assets/114555218/b5d9ca5a-4a00-4f47-817d-3a9f1a160d1a" title="실습 ④ 결과">
-<img width="310" alt="image" src="https://github.com/Jungddaseul/SQL_Study/assets/114555218/ed6a31ac-77a6-4b40-80ca-9906b0f9497e" title="실습 ⑤ 결과">
-<img width="310" alt="image" src="https://github.com/Jungddaseul/SQL_Study/assets/114555218/0f6fc22c-230f-495b-9018-a6d043576c70" title="실습 ⑤ 조회결과">
+<img width="400" alt="image" src="https://github.com/Jungddaseul/SQL_Study/assets/114555218/ed6a31ac-77a6-4b40-80ca-9906b0f9497e" title="실습 ⑤ 결과">
+<img width="400" alt="image" src="https://github.com/Jungddaseul/SQL_Study/assets/114555218/0f6fc22c-230f-495b-9018-a6d043576c70" title="실습 ⑤ 조회결과">
 </p>
 
