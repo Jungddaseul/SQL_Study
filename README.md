@@ -3,4 +3,4 @@
 ### 파이썬과 MySQL의 연동
 
 실습 ① 완전한 데이터 입력 프로그램의 완성 [코드확인](Code8-1.py)
-(./pandas_folium/seoul_food_folium.ipynb)
+
