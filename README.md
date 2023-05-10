@@ -11,10 +11,18 @@ tkinter는 파이썬에서 GUI 관련 모듈을 제공해주는 표준 윈도 �
 - 실습 ① GUI ktinter을 활용하여 **제목을 지정하고 크기를 설정**하기 [코드확인](Code8-3.py)
 - 실습 ② GUI ktinter을 활용하여 **버튼만들기** [코드확인](Code8-4.py)
 > clickButton() 함수와 command 옵션이 중요함
-- 실습 ③ GUI ktinter을 활용하여 위젯의 정렬 및 여백 [코드확인](Code8-5.py)
+- 실습 ③ GUI ktinter을 활용하여 **위젯의 정렬 및 여백** [코드확인](Code8-5.py)
 
 <p align="left">
 <img width="300" alt="image" src="https://github.com/Jungddaseul/SQL_Study/assets/114555218/787c9bb8-7ea7-4b59-aacd-4146856993fb" title="실습 ① 결과"> 
 <img width="306" alt="image" src="https://github.com/Jungddaseul/SQL_Study/assets/114555218/56e18992-b73c-4aa7-8b1c-14e3f326e5ca" title="실습 ② 결과">
 <img width="300" alt="image" src="https://github.com/Jungddaseul/SQL_Study/assets/114555218/38c57399-e705-4b6b-8892-108fda7ecec3" title="실습 ③ 결과">
 </p>
+
+- 실습 ④ GUI ktinter을 활용하여 위젯의 정렬 및 여백 [코드확인](Code8-6.py)
+
+<p align="left">
+<img width="220" alt="image" src="https://github.com/Jungddaseul/SQL_Study/assets/114555218/b5d9ca5a-4a00-4f47-817d-3a9f1a160d1a">
+
+</p>
+
